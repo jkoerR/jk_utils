@@ -1,10 +1,11 @@
-apply plugin: 'com.android.application'
-
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.jkoerR'
 android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "com.jkoer.jk_utils"
+//        applicationId "com.jkoer.jk_utils"
         minSdkVersion 23
         targetSdkVersion 29
         versionCode 1
