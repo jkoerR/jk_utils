@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">jk_utils</string>
+    <string name="app_permission">허가를 거부하면 서비스를 사용할 수 없습니다.\n[설정]> [허가]에서 권한을 켜십시오.</string>
 </resources>

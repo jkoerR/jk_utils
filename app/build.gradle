@@ -29,4 +29,12 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
+
+    //admob
+    implementation 'com.google.android.gms:play-services-ads:19.3.0+'
+    //구글광고
+    implementation 'com.google.android.gms:play-services-auth:18.0.0+'
+    //permission
+    implementation 'gun0912.ted:tedpermission:2.2.3'
+
 }
